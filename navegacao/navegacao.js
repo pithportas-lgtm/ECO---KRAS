@@ -8,7 +8,7 @@
 
 var KRAS_CAMERAS = [
   { pasta: 'ECO1', nome: 'Eco' },
-  { pasta: 'ECOV', nome: 'Eco-V' }
+  { pasta: 'ECO-V', nome: 'Eco-V' }
 ];
 
 (function () {
