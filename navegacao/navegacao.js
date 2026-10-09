@@ -7,7 +7,7 @@
    ============================================================ */
 
 var KRAS_CAMERAS = [
-  { pasta: 'ECO', nome: 'Eco' },
+  { pasta: 'ECO1', nome: 'Eco' },
   { pasta: 'ECOV', nome: 'Eco-V' }
 ];
 
